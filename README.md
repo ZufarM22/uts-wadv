@@ -46,7 +46,7 @@ Jika kode ini baru di-clone dari GitHub atau ingin dijalankan di komputer dosen,
 
 ## 3. Penjelasan Logika UTS (Buat Jaga-jaga)
 
-Jika ditanya oleh dosen mengenai bagaimana logika kode berjalan, ini poin-poin utamanya:
+ini poin-poin utamanya:
 
 ### A. Konsep Relasi (Foreign Key)
 Dalam proyek ini, 1 `Wallet` bisa memiliki banyak `Transaction` (*One-to-Many*). 
